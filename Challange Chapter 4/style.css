@@ -1,0 +1,67 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    color: black;
+    line-height: 49px;
+    font-weight: 700;
+}
+
+body{
+    background-color: #F9B23D;
+}
+
+button{
+    background-color: transparent;
+    border-color: transparent;
+    width: 30%;
+    height: 120px;
+} 
+
+.text-middle-vs{
+    font-size: 10vh;
+    color: red;
+}
+
+.title-rps{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 49px;
+    color:bisque;
+}
+
+.player-tool-batu{
+    width: 50%;
+}
+
+.player-tool-kertas{
+    width: 50%;
+}
+
+.player-tool-gunting{
+    width: 50%;
+}
+
+.comp-tool-batu{
+    width: 50%;
+} 
+
+.comp-tool-kertas{
+    width: 50%;
+} 
+
+.comp-tool-gunting{
+    width: 50%;
+} 
+
+.refresh-logo{
+    width: 5%;
+    margin-left: 14rem;
+    margin-bottom: 10rem;
+    cursor: pointer;
+    
+}
+
+
+
